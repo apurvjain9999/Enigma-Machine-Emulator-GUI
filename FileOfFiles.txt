@@ -1,0 +1,31 @@
+******* Enigma Machine Emulator GUI *******
+Author: Apurv Jain
+Version: 1.0.0
+
+FileOfFiles
+
+1) Code Files (Folder): Contains the Java code files 
+2) Java Documentation (Folder): Contains the Java Documentation Files of the Project, generated through NetBeans IDE 8.0
+3) Runnable JAR File (Folder): Contains JAR File of the Project
+4) Screenshots (Folder): Contains Scrennshot images of the various Display Panels of the Project
+5) README.md : Please read this file for the details about the project and to know how to run the project.
+6) act.sdr: Activity Diagram
+7) enigma_use.sd: Use Case Diagram
+8) Documentation.docx: Software Documentation (docx version)
+9) Documentation.pdf: Software Documentation (pdf version)
+10) self_evaluation.docx: Self-evaluation and Limiations (docx version)
+11) self_evaluation.pdf: Self-evaluation and Limiations (pdf version)
+12) License: Apache License 
+
+Code Files/Enigma/src contents :
+
+1) GUIDriver.java : Java file, containing the main class to run the Application
+2) enigma (folder) : Contains the classes for the functioning of the Enigma, the Reflector and the Rotors
+3) gui (folder) : Contains Java files for GUI
+
+	3.1) gui/images : Images used in the Application
+	3.2) gui/lib : Java Files (classes that provide functions, which are used as library functions)
+	3.3) gui/listener : Listener classes, that are designed to respond to a particular event
+	3.4) gui/panels : Java Files taht have been used for how to display various panels of the application
+	3.5) gui/EngimaMenuBar.java : For displaying the Menu Bar
+	3.6) gui/Machine.java : The main JFrame extended class
