@@ -13,8 +13,8 @@ FileOfFiles
 7) enigma_use.sd: Use Case Diagram
 8) Documentation.docx: Software Documentation (docx version)
 9) Documentation.pdf: Software Documentation (pdf version)
-10) self_evaluation.docx: Self-evaluation and Limiations (docx version)
-11) self_evaluation.pdf: Self-evaluation and Limiations (pdf version)
+10) self_evaluation.docx: Self-evaluation and Limitations (docx version)
+11) self_evaluation.pdf: Self-evaluation and Limitations (pdf version)
 12) License: Apache License 
 
 Code Files/Enigma/src contents :
